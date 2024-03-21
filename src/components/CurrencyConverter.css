@@ -7,7 +7,7 @@
     border-radius: 10px; /* Adiciona bordas arredondadas com raio de 10px */
     width: 400px; /*Define a largura fixa de 400px */
     margin: 2rem auto; /* Centraliza horizontalmente o contêiner */
-    background-color: #f8f9fa; /*Define a cor de fundo */
+    background-color: #d2d2d2; /*Define a cor de fundo */
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra suave */
 }
 
@@ -16,6 +16,11 @@
     color: #343a40; /* Define a cor do texto */
     font-size: 1.8rem; /*Define o tamanho da fonte */
     margin-bottom: 2rem; /*Adiciona uma margem inferior de 2rem */
+}
+.converter h3 {
+    color: blue; /* Define a cor do texto */
+    font-size: 1.8rem; /*Define o tamanho da fonte */
+
 }
 
 /* Define o estilo para os campos de entrada e seleção */
